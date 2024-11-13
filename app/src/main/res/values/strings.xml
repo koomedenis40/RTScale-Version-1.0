@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">RTScale Version 1.0</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="login1">Login</string>
+    <string name="e_dairy">E-Dairy</string>
+    <string name="dairy_farming">Dairy Farming</string>
+    <string name="revolutionizing_the_art_of_farming">Revolutionizing the Art of Farming</string>
+    <string name="sell_milk">Sell Milk</string>
+    <string name="weigh_milk">Weigh Milk</string>
+    <string name="admin_settings">Admin Settings</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="store">Store</string>
 </resources>
